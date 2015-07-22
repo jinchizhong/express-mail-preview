@@ -1,6 +1,8 @@
 Express mail preview
 ====================
 
+Deprecated!! New project here: [express-email](https://www.npmjs.com/package/express-email)
+
 Render email by [node-email-templates](https://github.com/niftylettuce/node-email-templates) and 
 show in web browser.
 
